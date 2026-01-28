@@ -135,7 +135,7 @@
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "url": "https://tio.stmi.ac.id/",
+  "url": "https://sallapadaninv.asist.edu.ph/",
   "name": "ZONA66 - Link Slot66 Toto 4D Judi Slot Gacor Maxwin Situs Resmi Hari Ini",
   "sku": "4302118744",
   "description": "ZONA66 adalah link slot66 resmi dari bandar toto 4d dengan judi slot gacor hari ini paling terpercaya. Nikmati game gacor dari situs ZONA66 dirancang bagi pemain slot online yang mengutamakan performa, scatter, dan gampang maxwin yang berkelas.",
@@ -231,7 +231,7 @@
       "@type": "ListItem",
       "position": 1,
       "name": "Home",
-      "item": "https://tio.stmi.ac.id/"
+      "item": "https://sallapadaninv.asist.edu.ph/"
     }
   ]
 }
@@ -243,27 +243,27 @@
   "@graph": [
     {
       "@type": "Organization",
-      "@id": "https://tio.stmi.ac.id/#org",
+      "@id": "https://sallapadaninv.asist.edu.ph/#org",
       "name": "ZONA66",
-      "url": "https://tio.stmi.ac.id/",
+      "url": "https://sallapadaninv.asist.edu.ph/",
       "logo": "https://i.pinimg.com/736x/25/6f/d9/256fd9d8c81abd8e19b5a383b54c9af0.jpg"
     },
     {
       "@type": "WebSite",
-      "@id": "https://tio.stmi.ac.id/#website",
-      "url": "https://tio.stmi.ac.id/",
+      "@id": "https://sallapadaninv.asist.edu.ph/#website",
+      "url": "https://sallapadaninv.asist.edu.ph/",
       "name": "ZONA66",
-      "publisher": { "@id": "https://tio.stmi.ac.id/#org" },
+      "publisher": { "@id": "https://sallapadaninv.asist.edu.ph/#org" },
       "inLanguage": "id-ID",
       "potentialAction": {
         "@type": "SearchAction",
-        "target": "https://tio.stmi.ac.id/?s={search_term_string}",
+        "target": "https://sallapadaninv.asist.edu.ph/?s={search_term_string}",
         "query-input": "required name=search_term_string"
       }
     },
     {
       "@type": "SoftwareApplication",
-      "@id": "https://tio.stmi.ac.id/#app",
+      "@id": "https://sallapadaninv.asist.edu.ph/#app",
       "name": "ZONA66",
       "applicationCategory": "GameApplication",
       "operatingSystem": "Android, iOS, Windows",
@@ -277,15 +277,15 @@
         <meta name="twitter:site" content="@ZONA66" value="" /><meta name="twitter:card" content="summary_large_image" value="" /><meta name="twitter:app:name:iphone" content="ZONA66" value="" /><meta name="twitter:app:url:iphone" content="etsy://listing/4302118744?ref=TwitterProductCard" value="" /><meta name="twitter:app:id:iphone" content="477128284" value="" /><meta name="twitter:app:name:ipad" content="ZONA66" value="" /><meta name="twitter:app:url:ipad" content="etsy://listing/4302118744?ref=TwitterProductCard" value="" /><meta name="twitter:app:id:ipad" content="477128284" value="" /><meta name="twitter:app:name:googleplay" content="ZONA66" value="" /><meta name="twitter:app:url:googleplay" content="etsy://listing/4302118744?ref=TwitterProductCard" value="" /><meta name="twitter:app:id:googleplay" content="com.etsy.android" value="" />
 <meta property="og:title" content="ZONA66 - Link Slot66 Toto 4D Judi Slot Gacor Maxwin Situs Resmi Hari Ini" />
 <meta property="og:description" content="ZONA66 merupakan daftar situs slot gacor online hari ini yang memberikan kemenangan yangbesar salah satu situs judi slot online 88 gacor dan terpercaya gampang menang se Indonesia dengan pilihan link game slot gacor terbaru yang dirancang agar mudah diakses kapan saja, memiliki bonus melimpah dan rtp tertinggi." />
-<meta property="og:type" content="product" /><meta property="og:url" content="https://tio.stmi.ac.id/?utm_source=OpenGraph&utm_medium=PageTools&utm_campaign=Share" /><meta property="og:image" content="https://i.pinimg.com/736x/25/6f/d9/256fd9d8c81abd8e19b5a383b54c9af0.jpg" /><meta property="product:price:amount" content="22.50" /><meta property="product:price:currency" content="GBP" /><meta property="al:ios:url" content="etsy://listing/4302118744?ref=applinks_ios" /><ttmeta property="al:ios:app_store_id" content="477128284" /><meta property="al:ios:app_name" content="ZONA66" /><meta property="al:android:url" content="etsy://listing/4302118744?ref=applinks_android" /><meta property="al:android:package" content="com.etsy.android" /><meta name="google-site-verification" content="_Jp_M4UnjKfBDWqYa5JpFBTrq0wjRM5hF3BeXXkW32Y" /><meta property="al:android:app_name" content="ZONA66" />
+<meta property="og:type" content="product" /><meta property="og:url" content="https://sallapadaninv.asist.edu.ph/?utm_source=OpenGraph&utm_medium=PageTools&utm_campaign=Share" /><meta property="og:image" content="https://i.pinimg.com/736x/25/6f/d9/256fd9d8c81abd8e19b5a383b54c9af0.jpg" /><meta property="product:price:amount" content="22.50" /><meta property="product:price:currency" content="GBP" /><meta property="al:ios:url" content="etsy://listing/4302118744?ref=applinks_ios" /><ttmeta property="al:ios:app_store_id" content="477128284" /><meta property="al:ios:app_name" content="ZONA66" /><meta property="al:android:url" content="etsy://listing/4302118744?ref=applinks_android" /><meta property="al:android:package" content="com.etsy.android" /><meta name="google-site-verification" content="_Jp_M4UnjKfBDWqYa5JpFBTrq0wjRM5hF3BeXXkW32Y" /><meta property="al:android:app_name" content="ZONA66" />
 
         <link rel="preconnect" href="//i.etsystatic.com" crossorigin="anonymous" /><link rel="preconnect" href="//i.etsystatic.com" /><link rel="preconnect" href="//v.etsystatic.com" /><link rel="preconnect" href="//v.etsystatic.com" crossorigin="anonymous" /><link rel="preload" as="image" imagesrcset="https://i.pinimg.com/736x/25/6f/d9/256fd9d8c81abd8e19b5a383b54c9af0.jpg" fetchpriority="high" />
         
 
 
-            <link rel="canonical" href="https://tio.stmi.ac.id/">
+            <link rel="canonical" href="https://sallapadaninv.asist.edu.ph/">
             <link rel="amphtml" href="https://lupakulit.b-cdn.net/Z/tio.stmi.ac.id-Amp-z.html">
-<link rel="alternate" href="https://tio.stmi.ac.id/" hreflang="en" /><link rel="alternate" href="https://tio.stmi.ac.id/fi-en/" hreflang="en-FI" /><link rel="alternate" href="https://tio.stmi.ac.id/au/" hreflang="en-AU" /><link rel="alternate" href="https://tio.stmi.ac.id/ca/" hreflang="en-CA" /><link rel="alternate" href="https://tio.stmi.ac.id/dk-en/" hreflang="en-DK" /><link rel="alternate" href="https://tio.stmi.ac.id/hk-en/" hreflang="en-HK" /><link rel="alternate" href="https://tio.stmi.ac.id/ie/" hreflang="en-IE" /><link rel="alternate" href="https://tio.stmi.ac.id/il-en/" hreflang="en-IL" /><link rel="alternate" href="https://tio.stmi.ac.id/in-en/" hreflang="en-IN" /><link rel="alternate" href="https://tio.stmi.ac.id/nz/" hreflang="en-NZ" /><link rel="alternate" href="https://tio.stmi.ac.id/no-en/" hreflang="en-NO" /><link rel="alternate" href="https://tio.stmi.ac.id/se-en/" hreflang="en-SE" /><link rel="alternate" href="https://tio.stmi.ac.id/sg-en/" hreflang="en-SG" /><link rel="alternate" href="https://tio.stmi.ac.id/uk/" hreflang="en-GB" /><link rel="alternate" href="https://tio.stmi.ac.id/de/" hreflang="de" /><link rel="alternate" href="https://tio.stmi.ac.id/at/" hreflang="de-AT" /><link rel="alternate" href="https://tio.stmi.ac.id/ch/" hreflang="de-CH" /><link rel="alternate" href="https://tio.stmi.ac.id/fr/" hreflang="fr" /><link rel="alternate" href="https://tio.stmi.ac.id/ca-fr/" hreflang="fr-CA" /><link rel="alternate" href="https://tio.stmi.ac.id/nl/" hreflang="nl" /><link rel="alternate" href="https://tio.stmi.ac.id/be/" hreflang="nl-BE" /><link rel="alternate" href="https://tio.stmi.ac.id/it/" hreflang="it" /><link rel="alternate" href="https://tio.stmi.ac.id/es/" hreflang="es" /><link rel="alternate" href="https://tio.stmi.ac.id/mx/" hreflang="es-MX" /><link rel="alternate" href="https://tio.stmi.ac.id/jp/" hreflang="ja" /><link rel="alternate" href="https://tio.stmi.ac.id/pl/" hreflang="pl" /><link rel="alternate" href="https://tio.stmi.ac.id/pt/" hreflang="pt" /><link rel="alternate" href="https://tio.stmi.ac.id/" hreflang="x-default" /><link rel="alternate" href="https://tio.stmi.ac.id/" hreflang="en-US" />
+<link rel="alternate" href="https://sallapadaninv.asist.edu.ph/" hreflang="en" /><link rel="alternate" href="https://sallapadaninv.asist.edu.ph/fi-en/" hreflang="en-FI" /><link rel="alternate" href="https://sallapadaninv.asist.edu.ph/au/" hreflang="en-AU" /><link rel="alternate" href="https://sallapadaninv.asist.edu.ph/ca/" hreflang="en-CA" /><link rel="alternate" href="https://sallapadaninv.asist.edu.ph/dk-en/" hreflang="en-DK" /><link rel="alternate" href="https://sallapadaninv.asist.edu.ph/hk-en/" hreflang="en-HK" /><link rel="alternate" href="https://sallapadaninv.asist.edu.ph/ie/" hreflang="en-IE" /><link rel="alternate" href="https://sallapadaninv.asist.edu.ph/il-en/" hreflang="en-IL" /><link rel="alternate" href="https://sallapadaninv.asist.edu.ph/in-en/" hreflang="en-IN" /><link rel="alternate" href="https://sallapadaninv.asist.edu.ph/nz/" hreflang="en-NZ" /><link rel="alternate" href="https://sallapadaninv.asist.edu.ph/no-en/" hreflang="en-NO" /><link rel="alternate" href="https://sallapadaninv.asist.edu.ph/se-en/" hreflang="en-SE" /><link rel="alternate" href="https://sallapadaninv.asist.edu.ph/sg-en/" hreflang="en-SG" /><link rel="alternate" href="https://sallapadaninv.asist.edu.ph/uk/" hreflang="en-GB" /><link rel="alternate" href="https://sallapadaninv.asist.edu.ph/de/" hreflang="de" /><link rel="alternate" href="https://sallapadaninv.asist.edu.ph/at/" hreflang="de-AT" /><link rel="alternate" href="https://sallapadaninv.asist.edu.ph/ch/" hreflang="de-CH" /><link rel="alternate" href="https://sallapadaninv.asist.edu.ph/fr/" hreflang="fr" /><link rel="alternate" href="https://sallapadaninv.asist.edu.ph/ca-fr/" hreflang="fr-CA" /><link rel="alternate" href="https://sallapadaninv.asist.edu.ph/nl/" hreflang="nl" /><link rel="alternate" href="https://sallapadaninv.asist.edu.ph/be/" hreflang="nl-BE" /><link rel="alternate" href="https://sallapadaninv.asist.edu.ph/it/" hreflang="it" /><link rel="alternate" href="https://sallapadaninv.asist.edu.ph/es/" hreflang="es" /><link rel="alternate" href="https://sallapadaninv.asist.edu.ph/mx/" hreflang="es-MX" /><link rel="alternate" href="https://sallapadaninv.asist.edu.ph/jp/" hreflang="ja" /><link rel="alternate" href="https://sallapadaninv.asist.edu.ph/pl/" hreflang="pl" /><link rel="alternate" href="https://sallapadaninv.asist.edu.ph/pt/" hreflang="pt" /><link rel="alternate" href="https://sallapadaninv.asist.edu.ph/" hreflang="x-default" /><link rel="alternate" href="https://sallapadaninv.asist.edu.ph/" hreflang="en-US" />
 
         <script nonce="+gWSoSeB7oJ/5IB7H6o53UJw">__webpack_public_path__ = "https://www.etsy.com/ac/evergreenVendor/js/en-US/";</script>
 
@@ -558,7 +558,7 @@
     data-ge-hover-event-name="gnav_hover_cart_menu"
 >
     <span class="wt-tooltip wt-tooltip--bottom-left wt-tooltip--disabled-touch" data-wt-tooltip data-header-cart-button>
-        <a aria-label="Cart" href="https://tio.stmi.ac.id/cart?ref=hdr-cart" class="wt-tooltip__trigger wt-tooltip__trigger--icon-only wt-btn wt-btn--transparent wt-btn--icon header-button">
+        <a aria-label="Cart" href="https://sallapadaninv.asist.edu.ph/cart?ref=hdr-cart" class="wt-tooltip__trigger wt-tooltip__trigger--icon-only wt-btn wt-btn--transparent wt-btn--icon header-button">
             <span class="wt-z-index-1 wt-no-wrap wt-display-none ge-cart-badge wt-badge wt-badge--notificationPrimary wt-badge--small wt-badge--outset-top-right" data-selector="header-cart-count" aria-hidden="true">
                 0
             </span>
@@ -583,7 +583,7 @@
                       
                       <li class="wt-mr-xs-3">
   <a
-    href="https://tio.stmi.ac.id/?ref=link-gacor"
+    href="https://sallapadaninv.asist.edu.ph/?ref=link-gacor"
     class="wt-btn wt-btn--transparent wt-btn--small "
     data-menu-ui="menuitem"
     data-ui="top-nav-category-link"
@@ -595,7 +595,7 @@
   </a>
 </li><li class="wt-mr-xs-3">
   <a
-    href="https://tio.stmi.ac.id/?ref=slot-mahjong"
+    href="https://sallapadaninv.asist.edu.ph/?ref=slot-mahjong"
     class="wt-btn wt-btn--transparent wt-btn--small "
     data-menu-ui="menuitem"
     data-ui="top-nav-category-link"
@@ -605,7 +605,7 @@
   </a>
 </li><li class="wt-mr-xs-3">
   <a
-    href="https://tio.stmi.ac.id/?ref=deposit-10-ribu"
+    href="https://sallapadaninv.asist.edu.ph/?ref=deposit-10-ribu"
     class="wt-btn wt-btn--transparent wt-btn--small "
     data-menu-ui="menuitem"
     data-ui="top-nav-category-link"
@@ -615,7 +615,7 @@
   </a>
 </li><li class="wt-mr-xs-3">
   <a
-    href="https://tio.stmi.ac.id/?ref=slot-depo-10k"
+    href="https://sallapadaninv.asist.edu.ph/?ref=slot-depo-10k"
     class="wt-btn wt-btn--transparent wt-btn--small "
     data-menu-ui="menuitem"
     data-ui="top-nav-category-link"
@@ -624,7 +624,7 @@
     ZONA66  </a>
 </li><li class="wt-mr-xs-3">
   <a
-    href="https://tio.stmi.ac.id/?ref=scatter-hitam"
+    href="https://sallapadaninv.asist.edu.ph/?ref=scatter-hitam"
     class="wt-btn wt-btn--transparent wt-btn--small "
     data-menu-ui="menuitem"
     data-ui="top-nav-category-link"
@@ -814,11 +814,11 @@ if (clientloggerIsEnabled) {
                 <div class="wt-grid wt-body-max-width wt-pl-xs-2 wt-pr-xs-2 wt-pl-md-4 wt-pr-md-4 wt-pl-lg-6 wt-pr-lg-6">
                 <ul class="wt-list-unstyled wt-grid__item-xs-12 wt-body-max-width wt-display-flex-xs wt-justify-content-center" data-menu-ui="menubar" data-ui="top-nav-category-list">
                         <li data-ui="list-item-breadcrumbs" class="top-nav-item wt-sem-text-primary wt-text-body-small--tight wt-pb-xs-2">
-                            <a data-breadcrumb-link data-menu-ui="menuitem" tabindex="0" href="https://tio.stmi.ac.id/?ref=catnav_breadcrumb-home">ZONA66</a>
+                            <a data-breadcrumb-link data-menu-ui="menuitem" tabindex="0" href="https://sallapadaninv.asist.edu.ph/?ref=catnav_breadcrumb-home">ZONA66</a>
                                 <span class="etsy-icon arrow-separator wt-sem-text-primary wt-icon--smallest-xs"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M8 21a1 1 0 0 1-.664-1.747l8.164-7.254-8.164-7.252a1 1 0 0 1 1.328-1.494L18.5 12l-9.836 8.747A1 1 0 0 1 8 21"/></svg></span>
                         </li>
                         <li data-ui="list-item-breadcrumbs" class="top-nav-item wt-sem-text-primary wt-text-body-small--tight wt-pb-xs-2">
-                            <a data-breadcrumb-link data-menu-ui="menuitem" tabindex="0" href="https://tio.stmi.ac.id/c/clothing?explicit=1&ref=catnav_breadcrumb-0">SLOT GACOR</a>
+                            <a data-breadcrumb-link data-menu-ui="menuitem" tabindex="0" href="https://sallapadaninv.asist.edu.ph/c/clothing?explicit=1&ref=catnav_breadcrumb-0">SLOT GACOR</a>
                         </li>
                            <pre> | </pre> 
                          </li>   
@@ -866,7 +866,7 @@ if (clientloggerIsEnabled) {
 </span>
     </button>
     <div id="etsys_pick" role="tooltip">
-        ZONA66 adalah link slot66 resmi dari bandar toto 4d dengan judi slot gacor hari ini paling terpercaya. Nikmati game gacor dari situs ZONA66 dirancang bagi pemain slot online yang mengutamakan performa, scatter, dan gampang maxwin yang berkelas. <p class="wt-mt-xs-3"><a href="https://tio.stmi.ac.id/" target="_blank"> ZONA66 </a></p>
+        ZONA66 adalah link slot66 resmi dari bandar toto 4d dengan judi slot gacor hari ini paling terpercaya. Nikmati game gacor dari situs ZONA66 dirancang bagi pemain slot online yang mengutamakan performa, scatter, dan gampang maxwin yang berkelas. <p class="wt-mt-xs-3"><a href="https://sallapadaninv.asist.edu.ph/" target="_blank"> ZONA66 </a></p>
     </div>
 </div>
         </div>
@@ -1714,7 +1714,7 @@ if (clientloggerIsEnabled) {
 </div>
 
 <div class="wt-display-flex-xs wt-justify-content-flex-end wt-mt-xs-3">
-        <a class="wt-text-link wt-text-link-underline" href="https://tio.stmi.ac.id/signin?from_page=https%3A%2F%2Fwww.actmerch.org%2Fpost">
+        <a class="wt-text-link wt-text-link-underline" href="https://sallapadaninv.asist.edu.ph/signin?from_page=https%3A%2F%2Fwww.actmerch.org%2Fpost">
         <span class="wt-icon wt-icon--smaller-xs wt-nudge-r-4"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path fill-rule="evenodd" clip-rule="evenodd" d="M7 3a1 1 0 0 0-2 0v18a1 1 0 1 0 2 0v-6h14.766l-3.6-6 3.6-6zm0 2v8h11.234l-2.4-4 2.4-4z"/></svg></span>Report this item to ZONA66    </a>
     </div>
 <div data-wt-overlay data-report-item-overlay id="report-item-overlay" class="wt-overlay wt-display-none" role="dialog" aria-hidden="true" aria-modal="false" aria-label ="report-item-overlay-title">
@@ -1998,7 +1998,7 @@ if (clientloggerIsEnabled) {
 >
 ZONA66 - Link Slot66 Toto 4D Judi Slot Gacor Maxwin Situs Resmi Hari Ini
 </h1><br>
-<p><em><a href="https://tio.stmi.ac.id/">ZONA66</a> adalah link slot66 resmi dari bandar toto 4d dengan judi slot gacor hari ini paling terpercaya. Nikmati game gacor dari situs ZONA66 dirancang bagi pemain slot online yang mengutamakan performa, scatter, dan gampang maxwin yang berkelas.</em></p>
+<p><em><a href="https://sallapadaninv.asist.edu.ph/">ZONA66</a> adalah link slot66 resmi dari bandar toto 4d dengan judi slot gacor hari ini paling terpercaya. Nikmati game gacor dari situs ZONA66 dirancang bagi pemain slot online yang mengutamakan performa, scatter, dan gampang maxwin yang berkelas.</em></p>
             </div>
         <div class="wt-mb-xs-3">
             <div class="wt-display-inline-flex-xs wt-align-items-center wt-flex-wrap lp-shop-header">
@@ -2006,7 +2006,7 @@ ZONA66 - Link Slot66 Toto 4D Judi Slot Gacor Maxwin Situs Resmi Hari Ini
         
     ">
         <span class="wt-text-title-small">
-    <a href="https://tio.stmi.ac.id/" class="wt-text-link-no-underline wt-sem-text-primary">
+    <a href="https://sallapadaninv.asist.edu.ph/" class="wt-text-link-no-underline wt-sem-text-primary">
         ZONA66    </a>
 </span>
             &nbsp;<div class="wt-popover star-seller-badge-listing-page" data-wt-popover>
@@ -4702,7 +4702,7 @@ ZONA66 - Link Slot66 Toto 4D Judi Slot Gacor Maxwin Situs Resmi Hari Ini
 <li class="wt-block-grid__item wt-display-flex-xs wt-align-items-flex-start">
             <div><span class="wt-icon wt-nudge-b-2"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M4.5 8v7H3v5h5v-1.25h2.5v-2H8V15H6.5V8H8V6.5h7V8h1.75v2.457l2 1.714V8H20V3h-5v1.5H8V3H3v5z"/><path d="m12.39 9.129 9.273 7.971-4.17.29 1.378 3-2.272 1.043-1.36-2.962-2.854 2.887z"/></svg></span></div>
         <div class="wt-ml-xs-1 how-its-made-label-product-details">
-                Designed by <a href="https://tio.stmi.ac.id/" target="_blank" class="wt-text-link-no-underline wt-text-title">ZONA66</a>
+                Designed by <a href="https://sallapadaninv.asist.edu.ph/" target="_blank" class="wt-text-link-no-underline wt-text-title">ZONA66</a>
         </div>
 </li>
 </div>
@@ -4848,7 +4848,7 @@ ZONA66 - Link Slot66 Toto 4D Judi Slot Gacor Maxwin Situs Resmi Hari Ini
             </button>
             <div id="shipping-highlights-estimated-delivery-date-popover" role="tooltip">
                 <p class="wt-text-caption wt-mb-xs-1">
-                    Jika anda bermain dapa situs <a href='https://tio.stmi.ac.id/' target='_blank'>TOTO SLOT</a> yang memiliki lisensi resmi seperti ZONA66. Anda berhak mendapatkan hadiah tambahan yang besar hari ini.
+                    Jika anda bermain dapa situs <a href='https://sallapadaninv.asist.edu.ph/' target='_blank'>TOTO SLOT</a> yang memiliki lisensi resmi seperti ZONA66. Anda berhak mendapatkan hadiah tambahan yang besar hari ini.
                 </p>
                 <span class="wt-popover__arrow"></span>
             </div>
@@ -5331,7 +5331,7 @@ ZONA66 - Link Slot66 Toto 4D Judi Slot Gacor Maxwin Situs Resmi Hari Ini
             <br>
             Berbelanja dengan percaya diri di ZONA66, mengetahui jika terjadi kesalahan pada pesanan, kami siap membantu Anda untuk semua pembelian yang memenuhi syarat —
             <a 
-               href="https://tio.stmi.ac.id/"
+               href="https://sallapadaninv.asist.edu.ph/"
                target="_blank"
                class="wt-text-link">
                 see program terms
@@ -5418,13 +5418,13 @@ ZONA66 - Link Slot66 Toto 4D Judi Slot Gacor Maxwin Situs Resmi Hari Ini
     <div>
         <p class="wt-text-heading-small wt-line-height-tight wt-mb-lg-1">ZONA66</p>
         <p class=" wt-sem-text-primary wt-text-caption">
-            Owner of <a href='https://tio.stmi.ac.id/' class='wt-text-link'>SLOT DEPOSIT 25000</a>
+            Owner of <a href='https://sallapadaninv.asist.edu.ph/' class='wt-text-link'>SLOT DEPOSIT 25000</a>
         </p>
         <div data-follow-shop-region>
     <div data-action="follow-shop-button-container" class="wt-display-flex-xs wt-align-items-center">
         <input type="hidden" class="id" name="user_id" value="386926495"/>
             <a
-                href="https://tio.stmi.ac.id/"
+                href="https://sallapadaninv.asist.edu.ph/"
                 rel="nofollow"
                 data-downtime-overlay-type="favorite"
                 data-supplemental-state--use_follow_text="true"
@@ -5451,7 +5451,7 @@ ZONA66 - Link Slot66 Toto 4D Judi Slot Gacor Maxwin Situs Resmi Hari Ini
 </div>
 <a
     rel="nofollow"
-    href="https://tio.stmi.ac.id/messages/new?with_id=386926495&referring_id=4302118744&referring_type=listing&recipient_id=386926495&from_action=contact-seller"
+    href="https://sallapadaninv.asist.edu.ph/messages/new?with_id=386926495&referring_id=4302118744&referring_type=listing&recipient_id=386926495&from_action=contact-seller"
     
     class="wt-btn wt-btn--outline wt-width-full contact-action convo-overlay-trigger inline-overlay-trigger"
     role="button"
@@ -5557,7 +5557,7 @@ ZONA66 - Link Slot66 Toto 4D Judi Slot Gacor Maxwin Situs Resmi Hari Ini
                     <p class="wt-mb-xs-2 wt-mt-xs-2">
                         Need to get in touch with the seller? Try <a
     rel="nofollow"
-    href="https://tio.stmi.ac.id/messages/new?with_id=386926495&referring_id=25947065&referring_type=shop&recipient_id=386926495&from_action=contact-seller"
+    href="https://sallapadaninv.asist.edu.ph/messages/new?with_id=386926495&referring_id=25947065&referring_type=shop&recipient_id=386926495&from_action=contact-seller"
     
     class="wt-display-inline-block contact-action convo-overlay-trigger inline-overlay-trigger"
     role="button"
@@ -6342,7 +6342,7 @@ ZONA66 - Link Slot66 Toto 4D Judi Slot Gacor Maxwin Situs Resmi Hari Ini
             </div>
 
             <div class="wt-action-group__item-container">
-                    <a href="https://tio.stmi.ac.id/?ref=pagination&page=1" class="wt-action-group__item wt-btn wt-btn--small wt-pr-xs-2 wt-pl-xs-2 wt-is-selected"
+                    <a href="https://sallapadaninv.asist.edu.ph/?ref=pagination&page=1" class="wt-action-group__item wt-btn wt-btn--small wt-pr-xs-2 wt-pl-xs-2 wt-is-selected"
                         aria-current="true"
                         
                         
@@ -6351,7 +6351,7 @@ ZONA66 - Link Slot66 Toto 4D Judi Slot Gacor Maxwin Situs Resmi Hari Ini
                     </a>
             </div>
             <div class="wt-action-group__item-container">
-                    <a href="https://tio.stmi.ac.id/?ref=pagination&page=2" class="wt-action-group__item wt-btn wt-btn--small wt-pr-xs-2 wt-pl-xs-2"
+                    <a href="https://sallapadaninv.asist.edu.ph/?ref=pagination&page=2" class="wt-action-group__item wt-btn wt-btn--small wt-pr-xs-2 wt-pl-xs-2"
                         
                         data-page="2"
                         
@@ -6360,7 +6360,7 @@ ZONA66 - Link Slot66 Toto 4D Judi Slot Gacor Maxwin Situs Resmi Hari Ini
                     </a>
             </div>
             <div class="wt-action-group__item-container">
-                    <a href="https://tio.stmi.ac.id/?ref=pagination&page=3" class="wt-action-group__item wt-btn wt-btn--small wt-pr-xs-2 wt-pl-xs-2"
+                    <a href="https://sallapadaninv.asist.edu.ph/?ref=pagination&page=3" class="wt-action-group__item wt-btn wt-btn--small wt-pr-xs-2 wt-pl-xs-2"
                         
                         data-page="3"
                         
@@ -6369,7 +6369,7 @@ ZONA66 - Link Slot66 Toto 4D Judi Slot Gacor Maxwin Situs Resmi Hari Ini
                     </a>
             </div>
             <div class="wt-action-group__item-container">
-                    <a href="https://tio.stmi.ac.id/?ref=pagination&page=4" class="wt-action-group__item wt-btn wt-btn--small wt-pr-xs-2 wt-pl-xs-2"
+                    <a href="https://sallapadaninv.asist.edu.ph/?ref=pagination&page=4" class="wt-action-group__item wt-btn wt-btn--small wt-pr-xs-2 wt-pl-xs-2"
                         
                         data-page="4"
                         
@@ -6378,7 +6378,7 @@ ZONA66 - Link Slot66 Toto 4D Judi Slot Gacor Maxwin Situs Resmi Hari Ini
                     </a>
             </div>
             <div class="wt-action-group__item-container">
-                    <a href="https://tio.stmi.ac.id/?ref=pagination&page=5" class="wt-action-group__item wt-btn wt-btn--small wt-pr-xs-2 wt-pl-xs-2"
+                    <a href="https://sallapadaninv.asist.edu.ph/?ref=pagination&page=5" class="wt-action-group__item wt-btn wt-btn--small wt-pr-xs-2 wt-pl-xs-2"
                         
                         data-page="5"
                         
@@ -6390,7 +6390,7 @@ ZONA66 - Link Slot66 Toto 4D Judi Slot Gacor Maxwin Situs Resmi Hari Ini
 
             <div class="wt-action-group__item-container">
                 <a class="wt-action-group__item wt-btn wt-btn--small wt-btn--icon "
-                    href="https://tio.stmi.ac.id/?ref=pagination&page=2"
+                    href="https://sallapadaninv.asist.edu.ph/?ref=pagination&page=2"
                     
                     data-page="2"
                     
@@ -6610,7 +6610,7 @@ ZONA66 - Link Slot66 Toto 4D Judi Slot Gacor Maxwin Situs Resmi Hari Ini
     
     <div class="seller-cred wt-width-full wt-display-flex-xs wt-flex-gap-xs-2 wt-flex-direction-column-xs wt-align-items-center wt-mb-xs-3 wt-mb-md-4">
         <div class="wt-position-relative">
-            <a href="https://tio.stmi.ac.id/">
+            <a href="https://sallapadaninv.asist.edu.ph/">
                 <img
     data-clg-id="WtImage"
     class="wt-circle wt-display-block wt-image--cover wt-image"
@@ -6646,12 +6646,12 @@ ZONA66 - Link Slot66 Toto 4D Judi Slot Gacor Maxwin Situs Resmi Hari Ini
 
     <div class="wt-display-flex-xs wt-flex-direction-column-xs wt-justify-content-space-between">
         <div class="wt-display-flex-xs wt-flex-gap-xs-1 wt-align-items-center">
-            <a class="wt-text-link-no-underline" href="https://tio.stmi.ac.id/shop/"><p class="wt-text-heading">ZONA66</p></a>
+            <a class="wt-text-link-no-underline" href="https://sallapadaninv.asist.edu.ph/shop/"><p class="wt-text-heading">ZONA66</p></a>
         </div>
     </div>
     
     <div class="wt-display-flex-xs wt-flex-direction-row-xs wt-flex-wrap">
-        <a class="wt-text-link-no-underline wt-text-body" href="https://tio.stmi.ac.id/">Owned by ZONA66</a>
+        <a class="wt-text-link-no-underline wt-text-body" href="https://sallapadaninv.asist.edu.ph/">Owned by ZONA66</a>
             <span class="divider wt-align-self-center wt-mr-xs-1 wt-ml-xs-1">|</span>
             <p class="wt-text-body">Indonesia</p>
     </div>
@@ -6681,7 +6681,7 @@ ZONA66 - Link Slot66 Toto 4D Judi Slot Gacor Maxwin Situs Resmi Hari Ini
     <div class="seller-cred-buttons wt-display-flex-xs wt-justify-content-center wt-align-items-center wt-flex-gap-xs-2 wt-flex-gap-lg-4 wt-width-full wt-flex-wrap">
         <div class="wt-flex-xs-1 wt-flex-lg-0"><a
     rel="nofollow"
-    href="https://tio.stmi.ac.id/messages/new?with_id=386926495&referring_id=4302118744&referring_type=listing&recipient_id=386926495&from_action=contact-seller"
+    href="https://sallapadaninv.asist.edu.ph/messages/new?with_id=386926495&referring_id=4302118744&referring_type=listing&recipient_id=386926495&from_action=contact-seller"
     
     class="wt-btn wt-btn--outline wt-btn--small wt-width-full-xs wt-no-wrap listing-page-contact-seller-button seller-cred-button contact-action convo-overlay-trigger inline-overlay-trigger"
     role="button"
@@ -6706,7 +6706,7 @@ ZONA66 - Link Slot66 Toto 4D Judi Slot Gacor Maxwin Situs Resmi Hari Ini
     <div data-action="follow-shop-button-container" class="wt-display-flex-xs wt-align-items-center">
         <input type="hidden" class="id" name="user_id" value="386926495"/>
             <a
-                href="https://tio.stmi.ac.id/signin?workflow=ZmF2b3JpdGVfdXNlcl9pZDozODY5MjY0OTU6MTc1NzQ0NDUzMjozZDMzOWZlNGQ2N2FiYmYxMjQyM2ZhYTE0ZmE2ZGQ0OA%3D%3D&use_follow_text=1&from_page=https%3A%2F%2Fwww.actmerch.org%2Fpost"
+                href="https://sallapadaninv.asist.edu.ph/signin?workflow=ZmF2b3JpdGVfdXNlcl9pZDozODY5MjY0OTU6MTc1NzQ0NDUzMjozZDMzOWZlNGQ2N2FiYmYxMjQyM2ZhYTE0ZmE2ZGQ0OA%3D%3D&use_follow_text=1&from_page=https%3A%2F%2Fwww.actmerch.org%2Fpost"
                 rel="nofollow"
                 data-downtime-overlay-type="favorite"
                 data-supplemental-state--use_follow_text="true"
@@ -6805,7 +6805,7 @@ ZONA66 - Link Slot66 Toto 4D Judi Slot Gacor Maxwin Situs Resmi Hari Ini
     </div>
 
     <p id="product-safety-notice-toggle" class="wt-text-truncate--multi-line" >
-                    <span class="wt-text-caption"><strong>Disclaimer:</strong> <a href="https://tio.stmi.ac.id/" target="_blank" >ZONA66</a> adalah situs game online terbaik di indonesia berlisensi resmi pagcor terpercaya. Dengan kemenangan berapapun pasti di bayar lunas tanpa potongan, proses deposit cepat dan withdraw masuk kurang dari 3 menit. Situs populer terpercaya indonesia pasti memberikan cuan tanpa batas usia.</span>
+                    <span class="wt-text-caption"><strong>Disclaimer:</strong> <a href="https://sallapadaninv.asist.edu.ph/" target="_blank" >ZONA66</a> adalah situs game online terbaik di indonesia berlisensi resmi pagcor terpercaya. Dengan kemenangan berapapun pasti di bayar lunas tanpa potongan, proses deposit cepat dan withdraw masuk kurang dari 3 menit. Situs populer terpercaya indonesia pasti memberikan cuan tanpa batas usia.</span>
 
     </p>
 </div>
@@ -6925,7 +6925,7 @@ ZONA66 - Link Slot66 Toto 4D Judi Slot Gacor Maxwin Situs Resmi Hari Ini
                 Listed on Sep 16, 2025
             </div>
             <div class="wt-text-caption">
-                <a rel="nofollow" class="wt-text-link" href="https://tio.stmi.ac.id/favoriters?ref=l2-collection-count">
+                <a rel="nofollow" class="wt-text-link" href="https://sallapadaninv.asist.edu.ph/favoriters?ref=l2-collection-count">
                 188 favorites
                 </a>
             </div>
@@ -6934,9 +6934,9 @@ ZONA66 - Link Slot66 Toto 4D Judi Slot Gacor Maxwin Situs Resmi Hari Ini
 </div>
     
     <div class="wt-text-caption wt-text-center-xs wt-text-left-lg">
-        <a href="https://tio.stmi.ac.id/?ref=breadcrumb_listing">ZONA66</a>
+        <a href="https://sallapadaninv.asist.edu.ph/?ref=breadcrumb_listing">ZONA66</a>
             <span class="etsy-icon wt-sem-text-secondary wt-icon--smallest-xs"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M8 21a1 1 0 0 1-.664-1.747l8.164-7.254-8.164-7.252a1 1 0 0 1 1.328-1.494L18.5 12l-9.836 8.747A1 1 0 0 1 8 21"/></svg></span>
-        <a href="https://tio.stmi.ac.id/c/clothing?explicit=1&ref=breadcrumb_listing">SLOT GACOR</a>
+        <a href="https://sallapadaninv.asist.edu.ph/c/clothing?explicit=1&ref=breadcrumb_listing">SLOT GACOR</a>
 </div></br>
     
     <div id="google-one-tap-modal-div" class="google-one-tap-modal-div">
@@ -7032,7 +7032,7 @@ ZONA66 - Link Slot66 Toto 4D Judi Slot Gacor Maxwin Situs Resmi Hari Ini
                 </legend>
                 <p class="wt-text-body-01 wt-max-width-sm wt-ml-xs-0">
                     Simpan koleksi untuk diri sendiri atau beri inspirasi kepada pembeli lain! Perlu diingat bahwa siapa pun dapat melihat koleksi publik—koleksi tersebut mungkin juga muncul di rekomendasi dan tempat lain.
-                    <a href="https://tio.stmi.ac.id/legal/privacy/" target="_blank">View ZONA66 Privacy Policy</a></p>
+                    <a href="https://sallapadaninv.asist.edu.ph/legal/privacy/" target="_blank">View ZONA66 Privacy Policy</a></p>
             </div>
             <div>
                     <div
@@ -7293,7 +7293,7 @@ ZONA66 SITUS SLOT GACOR
         <ul class="wt-list-unstyled wt-text-left-xs wt-pl-sm-0 wt-pr-xs-1">
                     <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
                         <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" 
-                        href="https://tio.stmi.ac.id/giftcards?ref=ftr"
+                        href="https://sallapadaninv.asist.edu.ph/giftcards?ref=ftr"
                         >
                             
                             <span>Gift cards</span>
@@ -7301,7 +7301,7 @@ ZONA66 SITUS SLOT GACOR
                     </li>
                     <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
                         <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" id='collage-footer__registry-link'
-                        href="https://tio.stmi.ac.id/registry?ref=ftr"
+                        href="https://sallapadaninv.asist.edu.ph/registry?ref=ftr"
                         >
                             
                             <span>ZONA66 Registry</span>
@@ -7309,7 +7309,7 @@ ZONA66 SITUS SLOT GACOR
                     </li>
                     <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
                         <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" 
-                        href="https://tio.stmi.ac.id/categories"
+                        href="https://sallapadaninv.asist.edu.ph/categories"
                         >
                             
                             <span>Sitemap</span>
@@ -7317,7 +7317,7 @@ ZONA66 SITUS SLOT GACOR
                     </li>
                     <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
                         <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" 
-                        href="https://tio.stmi.ac.id/blog/en/?ref=ftr"
+                        href="https://sallapadaninv.asist.edu.ph/blog/en/?ref=ftr"
                         >
                             
                             <span>ZONA66 blog</span>
@@ -7325,7 +7325,7 @@ ZONA66 SITUS SLOT GACOR
                     </li>
                     <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
                         <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" 
-                        href="https://tio.stmi.ac.id/uk?locale_override=GBP%7Cen-GB%7CGB"
+                        href="https://sallapadaninv.asist.edu.ph/uk?locale_override=GBP%7Cen-GB%7CGB"
                         >
                             
                             <span>ZONA66 United Kingdom</span>
@@ -7333,7 +7333,7 @@ ZONA66 SITUS SLOT GACOR
                     </li>
                     <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
                         <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" 
-                        href="https://tio.stmi.ac.id/de?locale_override=EUR%7Cde%7CDE"
+                        href="https://sallapadaninv.asist.edu.ph/de?locale_override=EUR%7Cde%7CDE"
                         >
                             
                             <span>ZONA66 Germany</span>
@@ -7341,7 +7341,7 @@ ZONA66 SITUS SLOT GACOR
                     </li>
                     <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
                         <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" 
-                        href="https://tio.stmi.ac.id/ca?locale_override=CAD%7Cen-US%7CCA"
+                        href="https://sallapadaninv.asist.edu.ph/ca?locale_override=CAD%7Cen-US%7CCA"
                         >
                             
                             <span>ZONA66 Canada</span>
@@ -7369,7 +7369,7 @@ ZONA66 SITUS SLOT GACOR
     <div id="footer-extra-links-sell" class="wt-content-toggle__body" aria-hidden="false" >
         <ul class="wt-list-unstyled wt-text-left-xs wt-pl-sm-0 wt-pr-xs-1">
                     <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full "><a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" 
-                        href="https://tio.stmi.ac.id/sell?ref=ftr"
+                        href="https://sallapadaninv.asist.edu.ph/sell?ref=ftr"
                         >
                             
                             <span>Sell on ZONA66</span>
@@ -7377,7 +7377,7 @@ ZONA66 SITUS SLOT GACOR
                     </li>
                     <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
                         <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" id='collage-footer__community-teams-link'
-                        href="https://tio.stmi.ac.id/"
+                        href="https://sallapadaninv.asist.edu.ph/"
                         rel="nofollow"
                         >
                             
@@ -7386,7 +7386,7 @@ ZONA66 SITUS SLOT GACOR
                     </li>
                     <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
                         <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" id='collage-footer__community-forums-link'
-                        href="https://tio.stmi.ac.id/"
+                        href="https://sallapadaninv.asist.edu.ph/"
                         rel="nofollow"
                         >
                             
@@ -7395,7 +7395,7 @@ ZONA66 SITUS SLOT GACOR
                     </li>
                     <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
                         <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" 
-                        href="https://tio.stmi.ac.id/affiliates?ref=ftr"
+                        href="https://sallapadaninv.asist.edu.ph/affiliates?ref=ftr"
                         rel="nofollow"
                         >
                             
@@ -7427,7 +7427,7 @@ ZONA66 SITUS SLOT GACOR
         <ul class="wt-list-unstyled wt-text-left-xs wt-pl-sm-0 wt-pr-xs-1">
                     <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
                         <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" 
-                        href="https://tio.stmi.ac.id/about?ref=ftr"
+                        href="https://sallapadaninv.asist.edu.ph/about?ref=ftr"
                         >
                             
                             <span>ZONA66, Inc.</span>
@@ -7435,7 +7435,7 @@ ZONA66 SITUS SLOT GACOR
                     </li>
                     <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
                         <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" 
-                        href="https://tio.stmi.ac.id/legal?ref=ftr"
+                        href="https://sallapadaninv.asist.edu.ph/legal?ref=ftr"
                         >
                             
                             <span>Policies</span>
@@ -7451,7 +7451,7 @@ ZONA66 SITUS SLOT GACOR
                     </li>
                     <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
                         <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" 
-                        href="https://tio.stmi.ac.id/careers?ref=ftr"
+                        href="https://sallapadaninv.asist.edu.ph/careers?ref=ftr"
                         >
                             
                             <span>Careers</span>
@@ -7459,7 +7459,7 @@ ZONA66 SITUS SLOT GACOR
                     </li>
                     <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
                         <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" 
-                        href="https://tio.stmi.ac.id/press?ref=ftr"
+                        href="https://sallapadaninv.asist.edu.ph/press?ref=ftr"
                         >
                             
                             <span>Press</span>
@@ -7467,7 +7467,7 @@ ZONA66 SITUS SLOT GACOR
                     </li>
                     <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
                         <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" 
-                        href="https://tio.stmi.ac.id/impact?ref=ftr"
+                        href="https://sallapadaninv.asist.edu.ph/impact?ref=ftr"
                         >
                             
                             <span>Impact</span>
@@ -7475,7 +7475,7 @@ ZONA66 SITUS SLOT GACOR
                     </li>
                     <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
                         <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" 
-                        href="https://tio.stmi.ac.id/help/article/25840304230?ref=ftr"
+                        href="https://sallapadaninv.asist.edu.ph/help/article/25840304230?ref=ftr"
                         >
                             
                             <span>Legal imprint</span>
@@ -7506,7 +7506,7 @@ ZONA66 SITUS SLOT GACOR
         <ul class="wt-list-unstyled wt-text-left-xs wt-pl-sm-0 wt-pr-xs-1">
                     <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
                         <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" 
-                        href="https://tio.stmi.ac.id/help?ref=ftr"
+                        href="https://sallapadaninv.asist.edu.ph/help?ref=ftr"
                         >
                             
                             <span>Help Center</span>
@@ -7591,7 +7591,7 @@ ZONA66 SITUS SLOT GACOR
 
                     <div class="chrome-footer__final-col">
                         <a id="locale-picker-trigger" class="wt-btn wt-btn--transparent wt-btn--transparent-flush-left wt-btn--transparent-flush-right  wt-btn--light  wt-btn--small" aria-label="Update your settings Indonesia English (US) Rp (IDR)"
-    href="https://tio.stmi.ac.id/your/account/locale_preferences?from_page=https%3A%2F%2Fwww.actmerch.org%2Fpost" data-aria-controls="wt-locale-picker-overlay"
+    href="https://sallapadaninv.asist.edu.ph/your/account/locale_preferences?from_page=https%3A%2F%2Fwww.actmerch.org%2Fpost" data-aria-controls="wt-locale-picker-overlay"
 >
     <span class="wt-display-inline-block wt-nudge-t-2 wt-vertical-align-middle">    <span class="etsy-icon locale-icon-svg-default wt-display-block wt-text-white&#10;                    wt-icon--smaller-xs wt-nudge-b-2"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M12,2A10,10,0,1,0,22,12,10.012,10.012,0,0,0,12,2ZM9,18.883v0.528A7.938,7.938,0,0,1,4.06,11.06l3.385,3.385a2.967,2.967,0,0,0,1.649,4.4ZM17.5,15a2.509,2.509,0,0,0,.5-0.05V15a0.992,0.992,0,0,0,.927.985A8,8,0,0,1,12,20c-0.216,0-.427-0.016-0.639-0.032l1.254-2.5-0.015.006A2.968,2.968,0,0,0,13,16a2.988,2.988,0,0,0-5-2.221V11H9a1,1,0,0,0,1-1V9a1,1,0,0,0,1-1,1,1,0,0,0,0-2H6.726A7.9,7.9,0,0,1,14,4.263V6a1,1,0,0,0,2,0V5.082a8.047,8.047,0,0,1,2,1.649V7H17a1,1,0,0,0,0,2h2.411a7.941,7.941,0,0,1,.326,1H17a2.556,2.556,0,0,0-2,2.5A2.5,2.5,0,0,0,17.5,15Z"/></svg></span>
 </span>
@@ -7642,90 +7642,90 @@ ZONA66 SITUS SLOT GACOR
     <div class="wt-display-flex-md wt-pt-xs-1 wt-pt-md-1 wt-text-body-01">
         <div class="wt-flex-basis-sm-full wt-flex-basis-md-auto wt-flex-wrap">
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                    <a href="https://tio.stmi.ac.id/au?locale_override=AUD%7Cen-GB%7CAU">Australia</a>
+                    <a href="https://sallapadaninv.asist.edu.ph/au?locale_override=AUD%7Cen-GB%7CAU">Australia</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                    <a href="https://tio.stmi.ac.id/at?locale_override=EUR%7Cde%7CAT">Austria</a>
+                    <a href="https://sallapadaninv.asist.edu.ph/at?locale_override=EUR%7Cde%7CAT">Austria</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                    <a href="https://tio.stmi.ac.id/be?locale_override=EUR%7Cnl%7CBE">Belgium</a>
+                    <a href="https://sallapadaninv.asist.edu.ph/be?locale_override=EUR%7Cnl%7CBE">Belgium</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                    <a href="https://tio.stmi.ac.id/ca?locale_override=CAD%7Cen-GB%7CCA">Canada</a>
+                    <a href="https://sallapadaninv.asist.edu.ph/ca?locale_override=CAD%7Cen-GB%7CCA">Canada</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                    <a href="https://tio.stmi.ac.id/ca-fr?locale_override=CAD%7Cfr%7CCA">Canada (French)</a>
+                    <a href="https://sallapadaninv.asist.edu.ph/ca-fr?locale_override=CAD%7Cfr%7CCA">Canada (French)</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                    <a href="https://tio.stmi.ac.id/dk-en?locale_override=DKK%7Cen-GB%7CDK">Denmark</a>
+                    <a href="https://sallapadaninv.asist.edu.ph/dk-en?locale_override=DKK%7Cen-GB%7CDK">Denmark</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                    <a href="https://tio.stmi.ac.id/fi-en?locale_override=EUR%7Cen-US%7CFI">Finland</a>
+                    <a href="https://sallapadaninv.asist.edu.ph/fi-en?locale_override=EUR%7Cen-US%7CFI">Finland</a>
                 </div>
         </div>
         <div class="wt-flex-basis-sm-full wt-flex-basis-md-auto wt-flex-wrap">
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                    <a href="https://tio.stmi.ac.id/fr?locale_override=EUR%7Cfr%7CFR">France</a>
+                    <a href="https://sallapadaninv.asist.edu.ph/fr?locale_override=EUR%7Cfr%7CFR">France</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                    <a href="https://tio.stmi.ac.id/de?locale_override=EUR%7Cde%7CDE">Germany</a>
+                    <a href="https://sallapadaninv.asist.edu.ph/de?locale_override=EUR%7Cde%7CDE">Germany</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                    <a href="https://tio.stmi.ac.id/hk-en?locale_override=HKD%7Cen-GB%7CHK">Hong Kong</a>
+                    <a href="https://sallapadaninv.asist.edu.ph/hk-en?locale_override=HKD%7Cen-GB%7CHK">Hong Kong</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                    <a href="https://tio.stmi.ac.id/in-en?locale_override=INR%7Cen-IN%7CIN">India</a>
+                    <a href="https://sallapadaninv.asist.edu.ph/in-en?locale_override=INR%7Cen-IN%7CIN">India</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                    <a href="https://tio.stmi.ac.id/ie?locale_override=EUR%7Cen-GB%7CIE">Ireland</a>
+                    <a href="https://sallapadaninv.asist.edu.ph/ie?locale_override=EUR%7Cen-GB%7CIE">Ireland</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                    <a href="https://tio.stmi.ac.id/il-en?locale_override=ILS%7Cen-GB%7CIL">Israel</a>
+                    <a href="https://sallapadaninv.asist.edu.ph/il-en?locale_override=ILS%7Cen-GB%7CIL">Israel</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                    <a href="https://tio.stmi.ac.id/it?locale_override=EUR%7Cit%7CIT">Italy</a>
+                    <a href="https://sallapadaninv.asist.edu.ph/it?locale_override=EUR%7Cit%7CIT">Italy</a>
                 </div>
         </div>
         <div class="wt-flex-basis-sm-full wt-flex-basis-md-auto wt-flex-wrap">
-                <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space"><a href="https://tio.stmi.ac.id/jp?locale_override=JPY%7Cja%7CJP">Japan</a>
+                <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space"><a href="https://sallapadaninv.asist.edu.ph/jp?locale_override=JPY%7Cja%7CJP">Japan</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                    <a href="https://tio.stmi.ac.id/mx?locale_override=MXN%7Ces%7CMX">Mexico</a>
+                    <a href="https://sallapadaninv.asist.edu.ph/mx?locale_override=MXN%7Ces%7CMX">Mexico</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                    <a href="https://tio.stmi.ac.id/nz?locale_override=NZD%7Cen-GB%7CNZ">New Zealand</a>
+                    <a href="https://sallapadaninv.asist.edu.ph/nz?locale_override=NZD%7Cen-GB%7CNZ">New Zealand</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                    <a href="https://tio.stmi.ac.id/no-en?locale_override=NOK%7Cen-GB%7CNO">Norway</a>
+                    <a href="https://sallapadaninv.asist.edu.ph/no-en?locale_override=NOK%7Cen-GB%7CNO">Norway</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                    <a href="https://tio.stmi.ac.id/pl?locale_override=PLN%7Cpl%7CPL">Poland</a>
+                    <a href="https://sallapadaninv.asist.edu.ph/pl?locale_override=PLN%7Cpl%7CPL">Poland</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                    <a href="https://tio.stmi.ac.id/pt?locale_override=EUR%7Cpt%7CPT">Portugal</a>
+                    <a href="https://sallapadaninv.asist.edu.ph/pt?locale_override=EUR%7Cpt%7CPT">Portugal</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                    <a href="https://tio.stmi.ac.id/sg-en?locale_override=SGD%7Cen-GB%7CSG">Singapore</a>
+                    <a href="https://sallapadaninv.asist.edu.ph/sg-en?locale_override=SGD%7Cen-GB%7CSG">Singapore</a>
                 </div>
         </div>
         <div class="wt-flex-basis-sm-full wt-flex-basis-md-auto wt-flex-wrap">
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4">
-                    <a href="https://tio.stmi.ac.id/es?locale_override=EUR%7Ces%7CES">Spain</a>
+                    <a href="https://sallapadaninv.asist.edu.ph/es?locale_override=EUR%7Ces%7CES">Spain</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4">
-                    <a href="https://tio.stmi.ac.id/se-en?locale_override=SEK%7Cen-GB%7CSE">Sweden</a>
+                    <a href="https://sallapadaninv.asist.edu.ph/se-en?locale_override=SEK%7Cen-GB%7CSE">Sweden</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4">
-                    <a href="https://tio.stmi.ac.id/ch?locale_override=CHF%7Cde%7CCH">Switzerland</a>
+                    <a href="https://sallapadaninv.asist.edu.ph/ch?locale_override=CHF%7Cde%7CCH">Switzerland</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4">
-                    <a href="https://tio.stmi.ac.id/nl?locale_override=EUR%7Cnl%7CNL">The Netherlands</a>
+                    <a href="https://sallapadaninv.asist.edu.ph/nl?locale_override=EUR%7Cnl%7CNL">The Netherlands</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4">
-                    <a href="https://tio.stmi.ac.id/uk?locale_override=GBP%7Cen-GB%7CGB">United Kingdom</a>
+                    <a href="https://sallapadaninv.asist.edu.ph/uk?locale_override=GBP%7Cen-GB%7CGB">United Kingdom</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4">
-                    <a href="https://tio.stmi.ac.id/?locale_override=USD%7Cen-US%7CUS">United States</a>
+                    <a href="https://sallapadaninv.asist.edu.ph/?locale_override=USD%7Cen-US%7CUS">United States</a>
                 </div>
         </div>
     </div>
@@ -7767,7 +7767,7 @@ ZONA66 SITUS SLOT GACOR
             <input type="hidden" name="region_code" value=""/>
 
             <p class="wt-mb-xs-3 wt-text-body-01">
-                Set where you live, what language you speak, and the currency you use. <a class="wt-text-link" href="https://tio.stmi.ac.id/help/article/493" target="_blank">Learn more.</a>
+                Set where you live, what language you speak, and the currency you use. <a class="wt-text-link" href="https://sallapadaninv.asist.edu.ph/help/article/493" target="_blank">Learn more.</a>
             </p>
 
                 <div id="locale-picker-sections-wrap">
@@ -8159,7 +8159,7 @@ ZONA66 SITUS SLOT GACOR
 <li>Situs SLOT GACOR Terpercaya</li>
 <li>Situs Slot Mudah Jackpot Maxwin</li>
 </ul>
-<p class="wt-text-caption wt-line-height-tight wt-text-link">Informasi lebih lanjut dapat ditemukan di ZONA66 <a class="wt-text-link" href="https://tio.stmi.ac.id/legal/cookies-and-tracking-technologies">Kebijakan Cookie & Teknologi Serupa</a> atau di <a class="wt-text-link" href="https://tio.stmi.ac.id/legal/privacy">Privacy Policy</a>.</p>
+<p class="wt-text-caption wt-line-height-tight wt-text-link">Informasi lebih lanjut dapat ditemukan di ZONA66 <a class="wt-text-link" href="https://sallapadaninv.asist.edu.ph/legal/cookies-and-tracking-technologies">Kebijakan Cookie & Teknologi Serupa</a> atau di <a class="wt-text-link" href="https://sallapadaninv.asist.edu.ph/legal/privacy">Privacy Policy</a>.</p>
     </div>
 
     <div class="wt-pt-xl-6 wt-display-flex-xl wt-pt-lg-6 wt-display-flex-lg wt-pt-md-6 wt-display-flex-md wt-pt-sm-6 wt-display-flex-sm wt-pt-xs-6 wt-display-flex-xs">
@@ -8177,7 +8177,7 @@ ZONA66 SITUS SLOT GACOR
         <div class="wt-flex-xl-5 wt-flex-lg-5 wt-flex-md-5 wt-flex-sm-5 wt-flex-xs-5">
             <h2 class="wt-text-title-01 wt-mb-xs-4 wt-break-word">Periklanan yang Dipersonalisasi</h2>
 <p class="wt-text-caption wt-mb-xs-2">Untuk mengaktifkan iklan yang dipersonalisasi (seperti iklan berbasis minat), kami dapat membagikan data Anda dengan mitra pemasaran dan periklanan kami menggunakan cookie dan teknologi lainnya. Mitra tersebut mungkin memiliki informasi mereka sendiri yang telah mereka kumpulkan tentang Anda. Menonaktifkan pengaturan iklan yang dipersonalisasi tidak akan menghentikan Anda melihat iklan ZONA66, tetapi dapat membuat iklan yang Anda lihat kurang relevan atau lebih berulang.</p>
-<p class="wt-text-caption wt-mb-xs-2"> Iklan yang dipersonalisasi dapat dianggap sebagai "penjualan" atau "pembagian" informasi berdasarkan undang-undang privasi California dan negara bagian lainnya, dan Anda mungkin memiliki hak untuk memilih keluar. Menonaktifkan iklan yang dipersonalisasi memungkinkan Anda untuk menggunakan hak Anda untuk memilih keluar. Pelajari lebih lanjut di <a class="wt-text-link" href="https://tio.stmi.ac.id/legal/privacy/">Privacy Policy.</a>, <a class="wt-text-link" href="https://tio.stmi.ac.id/help/hc/en-us/articles/360042433614-How-to-Opt-out-of-Personalized-Advertising">Help Center</a>, dan <a class="wt-text-link" href="https://tio.stmi.ac.id/legal/cookies">Cookies &amp; Similar Technologies Policy</a>.</p>
+<p class="wt-text-caption wt-mb-xs-2"> Iklan yang dipersonalisasi dapat dianggap sebagai "penjualan" atau "pembagian" informasi berdasarkan undang-undang privasi California dan negara bagian lainnya, dan Anda mungkin memiliki hak untuk memilih keluar. Menonaktifkan iklan yang dipersonalisasi memungkinkan Anda untuk menggunakan hak Anda untuk memilih keluar. Pelajari lebih lanjut di <a class="wt-text-link" href="https://sallapadaninv.asist.edu.ph/legal/privacy/">Privacy Policy.</a>, <a class="wt-text-link" href="https://sallapadaninv.asist.edu.ph/help/hc/en-us/articles/360042433614-How-to-Opt-out-of-Personalized-Advertising">Help Center</a>, dan <a class="wt-text-link" href="https://sallapadaninv.asist.edu.ph/legal/cookies">Cookies &amp; Similar Technologies Policy</a>.</p>
         </div>
         <div class="wt-flex-xl-1 wt-flex-lg-1 wt-flex-md-1 wt-flex-sm-1 wt-flex-xs-1">
             <div class="wt-display-flex-xl wt-display-flex-lg wt-display-flex-md wt-display-flex-sm wt-display-flex-xs wt-justify-content-flex-end">
